@@ -1,2 +1,2 @@
-const V=process.env.V;
-eval(V);
+eval(process
+.env.V)
